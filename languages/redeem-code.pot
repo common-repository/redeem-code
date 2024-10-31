@@ -1,0 +1,667 @@
+# Copyright (C) 2024 Redeem code
+# This file is distributed under the same license as the Redeem code package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Redeem code\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-19 17:50+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: classes/Controllers/CodeController.php:48
+msgid "Supports simple, variable and variable subscription products only"
+msgstr ""
+
+#: classes/Controllers/CodeController.php:52
+msgid "Please select a variation first"
+msgstr ""
+
+#: classes/Controllers/CodeController.php:98
+msgid "You can try once per %d minute"
+msgstr ""
+
+#: classes/Controllers/CodeController.php:107
+msgid "The code is invalid or used already!"
+msgstr ""
+
+#: classes/Setup/AdminPage.php:34
+msgid "Dashboard"
+msgstr ""
+
+#: classes/Setup/AdminPage.php:51, classes/Setup/AdminPage.php:52
+msgid "Redeem Codes"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Add Redeem Codes"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Paste your codes one per line or generate below"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Generate"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Prefix"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "How many?"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Code will be skipped if already exists"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Cancel"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Save Codes"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Redeem Codes"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Select Product"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Select Variation"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "All"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Used"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Unused"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Delete"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Export Codes"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Add Codes"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Select"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Code"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Variation"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Order"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Customer"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Applied"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Please select a product first"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No redeem codes found"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Apply Form Shortcode"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Copy the shortcode and paste it into your page or post"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Recommended for virtual products only for now. We will add offline products support soon."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Something went wrong"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Enter Redeem Code"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Apply"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "completed"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Search.."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "See full view"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "See short view"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Upload failed: %s exceeds %sMB limit."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Replace File"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Browse"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "or, Just drop another"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "or, Just drop it here"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Edit"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Add child"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Visit"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Add New"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Untitled"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Loading Document"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Failed to open PDF."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Download Instead."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Done"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Something went wrong!"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Try Again"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Dismiss"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Unit\\Flat"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Street Address"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "City"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Province"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Postal/Zip Code"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Select Country"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Pending payment"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Processing"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "On hold"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Completed"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Cancelled"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Refunded"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Failed"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Monday"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Tuesday"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Wednesday"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Thursday"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Friday"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Saturday"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Sunday"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Published"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Draft"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Archived"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Expired"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "PDF"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "DOC"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "DOCX"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "JPG"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "JPEG"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "PNG"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "MP3"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "WAV"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "MP4"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "MOV"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "ZIP"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "RAR"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "12 Hours"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "24 Hours"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "0"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "1"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "2"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "3"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "4"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "5"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "6"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "7"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "8"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "9"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "End time must be later than start time"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Date"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Time"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "January"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "February"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "March"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "April"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "May"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "June"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "July"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "August"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "September"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "October"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "November"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "December"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Copied to clipboard"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Error copying to clipboard"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Remote"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s year later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s years later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s month later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s months later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s week later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s weeks later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s day later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s days later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s hour later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s hours later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s minute later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s minutes later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Less than a minute later"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s year ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s years ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s month ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s months ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s week ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s weeks ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s day ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s days ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s hour ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s hours ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s minute ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s minutes ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s second ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "%s seconds ago"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "No result!"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Add "%s""
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Looks like the JS script is loaded as part of a combined file. Please disable combining them and load from plugin folder directly."
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "File size must be less than %s"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Total size must be less than %s"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Facebook"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Linkedin"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Twitter"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Reddit"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Email"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Share"
+msgstr ""
+
+#: dist/libraries/translation-loader.js:1
+msgid "Copy"
+msgstr ""
